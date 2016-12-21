@@ -1,7 +1,9 @@
 import React from 'react';
 
-const App = () => (
-  <div>Hello world</div>
-);
+const App = React.createClass({
+  render() {
+    return (<input/>);
+  }
+});
 
 export default App;
