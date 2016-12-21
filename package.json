@@ -28,6 +28,7 @@
     "jsdom-global": "^2.1.0",
     "mocha": "^3.1.2",
     "react-addons-test-utils": "^15.3.2",
+    "sinon-chai": "^2.8.0",
     "webpack-dev-server": "^1.16.2"
   },
   "dependencies": {
